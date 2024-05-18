@@ -344,6 +344,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     display: inline-block;
     color: #50616c;
 }
+
+.single-service-icon img {
+    width: 60px; /* Adjust the size as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+}
+
 .single-service-item h2 a {
     font-size:20px;
     margin: 35px 0 20px;
@@ -369,6 +377,72 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 .single-service-item:hover  p:before {background: #fff;}
 .single-service-item:hover{box-shadow: 0 12px 30px 0px rgba(0,1,193,.2);background: #4e4ffa;border: 1px solid #4e4ffa;}
 
+
+
+
+.service {
+    padding: 260px 0 87px;
+}
+
+.single-service-item {
+    text-align: center;
+    padding: 55px 30px 60px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    border: 1px solid #dadfe9;
+    transition: .3s linear;
+}
+
+.single-service-icon {
+    display: inline-block;
+    color: #50616c;
+}
+
+.single-service-item h2 a {
+    font-size: 20px;
+    margin: 35px 0 20px;
+}
+
+.single-service-item h2 a span {
+    text-transform: lowercase;
+}
+
+.single-service-item p {
+    padding-bottom: 35px;
+    text-transform: initial;
+    position: relative;
+}
+
+.single-service-item p:before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 3px;
+    background: #3030ea;
+    bottom: 0;
+    left: 50%;
+    margin-left: -10px;
+}
+
+/* Change the SVG color to white on hover */
+.single-service-item:hover .service-icon {
+    filter: invert(100%);
+}
+
+.single-service-item:hover h2 a,
+.single-service-item:hover p {
+    color: #fff;
+}
+
+.single-service-item:hover p:before {
+    background: #fff;
+}
+
+.single-service-item:hover {
+    box-shadow: 0 12px 30px 0px rgba(0, 1, 193, .2);
+    background: #4e4ffa;
+    border: 1px solid #4e4ffa;
+}
 
 /*-------------------------------------
         6. New-cars
