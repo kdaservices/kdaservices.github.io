@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #435efa;
+    color: #1931bd;
 }
 
 a:hover, a:active {
@@ -117,7 +117,7 @@ a:hover, a:active {
 }
 
 .service-text h3 a:hover {
-    color: #435efa; /* Change this to your desired color */
+    color: #1931bd; /* Change this to your desired color */
 }
 
 
@@ -394,7 +394,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #435efa;
+    background: #1931bd;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -403,7 +403,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #435efa;
+    color: #1931bd;
 }
 
 dd {
@@ -529,7 +529,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #435efa;
+    background: #1931bd;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -572,7 +572,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #435efa;
+    background-color: #1931bd;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -799,7 +799,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #435efa;
+    -webkit-text-fill-color: #1931bd;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -859,8 +859,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: #435efa;
-    border-color: #435efa;
+    background: #1931bd;
+    border-color: #1931bd;
     color: #fdf9f7;
 }
 
@@ -874,8 +874,9 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background: #33a242;
-    border-color: #33a242;
+    background: #fdf9f7;
+    border-color: #fdf9f7;
+    color: #1931bd;
 }
 
 
@@ -899,8 +900,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.2rem solid #435efa;
-    color: #435efa;
+    border: 0.2rem solid #1931bd;
+    color: #1931bd;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
@@ -1128,7 +1129,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #435efa;
+    color: #1931bd;
 }
 
 .stats-tabs li a em {
@@ -1273,7 +1274,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #435efa;
+    color: #1931bd;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1488,7 +1489,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding: 0;
     outline: 0;
     border: none;
-    width: 80px;
+    width: 120px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -1540,7 +1541,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #435efa;
+    color: #1931bd;
 }
 
 .header-nav p {
@@ -1572,7 +1573,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     color: #fdf9f7;
 }
 .header-nav__list a:hover {
-    color: #435efa;
+    color: #1931bd;
 }
 
 .header-nav__social {
@@ -1681,7 +1682,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #435efa;
+    color: #1931bd;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1889,8 +1890,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #435efa;
-    border-right: 2px solid #435efa;
+    border-bottom: 2px solid #1931bd;
+    border-right: 2px solid #1931bd;
     content: '';
     display: block;
     height: 8px;
@@ -1914,7 +1915,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #435efa;
+    background-color: #1931bd;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -1974,7 +1975,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #435efa;
+    color: #1931bd;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2230,7 +2231,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #435efa;
+    background-color: #1931bd;
     color: #010507;
     position: relative;
 }
@@ -2436,7 +2437,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #435efa;
+    color: #1931bd;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -3005,7 +3006,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #fdf9f7;
-    background: #435efa;
+    background: #1931bd;
 }
 
 .s-contact .form-field label::after {
@@ -3016,14 +3017,14 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #435efa;
+    border-right: 5px solid #1931bd;
 }
 
 .contact__line {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #435efa;
+    background-color: #1931bd;
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3050,7 +3051,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-    color: #435efa;
+    color: #1931bd;
 }
 
 .contact-content input[type="email"],
@@ -3077,7 +3078,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
     color: #fdf9f7;
-    border-bottom: 1px solid #435efa;
+    border-bottom: 1px solid #1931bd;
 }
 
 .contact-content button,
@@ -3168,7 +3169,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-    color: #435efa;
+    color: #1931bd;
 }
 
 .contact-social li:last-child {
@@ -3191,7 +3192,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-    color: #435efa;
+    color: #1931bd;
 }
 
 .message-warning i, .message-success i {
@@ -3386,7 +3387,7 @@ footer a {
 }
 
 footer a:hover, footer a:focus, footer a:active {
-    color: #435efa;
+    color: #1931bd;
 }
 
 footer .row {
@@ -3416,10 +3417,10 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
+    width: 120px;
+    height: 50px;
     background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    background-size: 120px 50px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;

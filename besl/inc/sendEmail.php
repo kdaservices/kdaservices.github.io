@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+$siteOwnersEmail = 'admin@besl.uk';
 
 if ($_POST) {
     $name = trim(stripslashes($_POST['contactName']));
